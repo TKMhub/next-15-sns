@@ -28,7 +28,6 @@ export default function Feed() {
         </CardContent>
       </Card>
 
-      {/* Posts */}
       {posts.map((post) => (
         <Card key={post} className="mb-6">
           <CardHeader>
