@@ -13,7 +13,6 @@ export default function Feed() {
 
   return (
     <div>
-      {/* New Post Input */}
       <Card className="mb-6">
         <CardContent className="pt-6">
           <div className="flex items-start space-x-4">
